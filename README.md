@@ -33,3 +33,5 @@ exports.GOOGLE_API_KEY = ''; // Your youtube/google API key here
 Authored and maintained by iCrawl.
 
 > GitHub [@iCrawl](https://github.com/iCrawl) · Twitter [@iCrawlToGo](https://twitter.com/iCrawlToGo)
+
+[![Run on Repl.it](https://repl.it/badge/github/MrZpower/Music-Bot)](https://repl.it/github/MrZpower/Music-Bot)
